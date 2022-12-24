@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://santiagotorres.me/blog](https://santiagotorres.me/blog)
 
-- 💬 Ask me about **Rust, Golang, Typescript, C, Python**
+- 💬 Ask me about **Rust, Golang, Typescript, C, Python, Artificial intelligence, Big data**
 
 - 📫 How to reach me **santiagotorres@freedomtorres.tech**
 
