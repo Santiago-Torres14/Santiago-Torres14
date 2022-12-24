@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santiago Torres</h1>
 <h3 align="center">Curious software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago-torres14" alt="santiago-torres14" /></a> </p>
 
-- 🔭 I’m currently working with [dynata](https://github.com/dynata)
+- 🔭 I’m currently working in [dynata](https://github.com/dynata)
 
 - 🌱 I’m currently learning **big data, artificial intelligence**
 
