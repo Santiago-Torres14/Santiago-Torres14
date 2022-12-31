@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Rust, Golang, Typescript, C, Python, Artificial intelligence, Big data**
 
-- 📫 How to reach me **santiagotorres@freedomtorres.tech**
+- 📫 How to reach me **contact@santiagotorres.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
