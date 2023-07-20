@@ -2,7 +2,7 @@
 <h3 align="center">Curious software engineer</h3>
 
 
-- 🔭 I’m currently working in [dynata](https://github.com/dynata)
+- 🔭 I’m currently working in [dynata](https://github.com/dynata) & [TechGenies](https://techgenies.com/)
 
 - 🌱 I’m currently learning **big data, artificial intelligence**
 
